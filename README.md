@@ -2,6 +2,8 @@
  
 This senior level Data Science course teaches Machine Learning. 
 
+![image](https://user-images.githubusercontent.com/64792699/145898581-30aefd4d-d912-4b8d-a938-192311d95ed0.png)
+
 ## Machine Learning
 
 Machine Learning is the science (and art) of programming computers so they can learn from data.  There are three main categories of Machine Learning:
@@ -15,7 +17,7 @@ In Supervised Learning, the training set that is fed into the algorithm  include
 * Regression: Purpose is to predict a quanitty, or predicting a continuous quantity output.
 
 Examples of Supervised Learning covered in this project are:
-* [K-Nearest_Neighbors](https://github.com/maxwell-boozer/Data_4319_ML/tree/main/Supervised_Learning/KMeans)
+* [K-Nearest_Neighbors](https://github.com/maxwell-boozer/Data_4319_ML/tree/main/Supervised_Learning/KNN)
 * [Logistic_Regression](https://github.com/maxwell-boozer/Data_4319_ML/tree/main/Supervised_Learning/Logistic_Regression)
 * [Linear_Regression](https://github.com/maxwell-boozer/Data_4319_ML/tree/main/Supervised_Learning/Linear_Regression)
 * [Gradient_Descent](https://github.com/maxwell-boozer/Data_4319_ML/tree/main/Supervised_Learning/Gradient_Descent)
@@ -30,4 +32,4 @@ Examples of Supervised Learning covered in this project are:
 In an Unsupervised Learning algorithm, the training data is *unlabeled*. It is used to identify patterns in data sets containing the unclassified or unlabeled datapoints. It thus identifies the patterns on its own.
 
 Examples of Unsupervised Learning covered in this project are:
-* KMeans(
+* [KMeans](https://github.com/maxwell-boozer/Data_4319_ML/tree/main/Unsupervised_Learning/KMeans)
